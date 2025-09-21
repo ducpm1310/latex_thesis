@@ -1,9 +1,0 @@
-[0] Config.pm:328> INFO - This is Biber 2.21
-[0] Config.pm:331> INFO - Logfile is 'cover.blg'
-[159] biber-MSWIN64:342> INFO - === 
-[191] Biber.pm:421> INFO - Reading 'cover.bcf'
-[281] Biber.pm:1002> INFO - Found 0 citekeys in bib section 0
-[294] bbl.pm:676> INFO - Writing 'cover.bbl' with encoding 'UTF-8'
-[294] bbl.pm:779> INFO - Output to cover.bbl
-[294] Biber.pm:132> WARN - The file 'cover.bcf' does not contain any citations!
-[295] Biber.pm:134> INFO - WARNINGS: 1
