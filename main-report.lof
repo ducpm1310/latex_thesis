@@ -1,0 +1,18 @@
+\ttl@tocsep 
+\ttl@tocsep 
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Ví dụ về việc đưa ra các quyết định dựa trên câu hỏi}}{10}{figure.1.1}%
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Tập dữ liệu khởi đầu với dữ liệu lộn xộn}}{12}{figure.1.2}%
+\contentsline {figure}{\numberline {1.3}{\ignorespaces Đồ thị entropy cho biến 2 trạng thái}}{13}{figure.1.3}%
+\contentsline {figure}{\numberline {1.4}{\ignorespaces Cây hoàn chỉnh sau khi thực hiện thuật toán CART}}{17}{figure.1.4}%
+\contentsline {figure}{\numberline {1.5}{\ignorespaces Ví dụ về đoán dữ liệu để thêm vào thuộc tính Term}}{19}{figure.1.5}%
+\contentsline {figure}{\numberline {1.6}{\ignorespaces Kịch bản khai thác lỗ hổng Reflected XSS}}{24}{figure.1.6}%
+\contentsline {figure}{\numberline {1.7}{\ignorespaces Kịch bản khai thác lỗ hổng Stored XSS}}{24}{figure.1.7}%
+\contentsline {figure}{\numberline {1.8}{\ignorespaces Giao diện form bình thường của site bị khai thác bởi lỗi DOM Based XSS}}{25}{figure.1.8}%
+\contentsline {figure}{\numberline {1.9}{\ignorespaces Giao diện form bị chỉnh sửa của site bị khai thác bởi lỗi DOM Based XSS}}{26}{figure.1.9}%
+\contentsline {figure}{\numberline {1.10}{\ignorespaces Đoạn script đã chạy trên site bị khai thác bởi lỗi DOM Based XSS}}{26}{figure.1.10}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Cấu trúc một tập tin HTTP request cơ bản.}}{28}{figure.2.1}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Kết quả từ chương trình khi chạy}}{32}{figure.2.2}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Đồ thị curves thể hiện giá trị dự đoán chính xác}}{33}{figure.2.3}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Kết quả sau khi điều chỉnh tham số}}{34}{figure.2.4}%
